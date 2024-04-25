@@ -40,7 +40,7 @@ Die Behinderung ist häufig mit Hör- und Sehstörungen verbunden, die den Kinde
 
 Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
 
-![(Abbildung 6): Medbase Bern (Abseera und Célestine)]()
+![(Abbildung 6): Medbase Bern (Abseera und Célestine)](img_7113-2-.jpeg)
 
 {{<box>}} Dr. med. Aurélie Yekpe
 Aurélie Yekpe ist 60 Jahre alt. Sie arbeitet im Spital Medbase am Bahnhof Bern. Nach langen hin und her hat Sie sich für die Ausbildung als Gynäkologin und Geburtshelferin entschieden. Studiert hat Frau Yekpe in drei Ländern, zuerst in der Elfenbeinküste danach noch in Österreich und in Frankreich. Als Studentin in Wien, Österreich hatte Sie nur 2 Monate Ferien, was dazu führte, dass Sie ihre Familie selten sehen konnte. Frau Yekpe hat auch ein grosses Interesse an Chirurgie für Fehlbildungen, und würde manchmal auch gerne in einer Praxis arbeiten, wo man nur fünf Patient*innen pro Tag hat. Ihr jetziger Job macht Frau Yekpe sehr viel Spass. Sie liebt es, bei Geburten dabei zu sein, da man nie wissen kann, wie das Ganze ablaufen wird. {{</box>}}
