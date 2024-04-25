@@ -1,9 +1,9 @@
 +++
-title = "Trisomie 21: Mehr als nur ein genetischer Zustand- eine Feier der Individualität"
+title = "Trisomie 21: Mehr als nur ein genetischer Zustand eine Feier der Individualität"
 date = "2024-03-14"
 draft = true
 pinned = true
-image = "69778959-8153-4aab-8cfa-5125627d2136.jpeg"
-description = "Reportage"
+image = ""
+description = "Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. "
 +++
-Reportage und Interviews Trisomie 21
+Gugus
