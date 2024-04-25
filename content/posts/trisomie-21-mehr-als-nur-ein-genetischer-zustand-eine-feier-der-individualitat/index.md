@@ -8,7 +8,9 @@ description = "Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mi
 +++
 ![]()
 
-## Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt.
+ {{<lead>}} ## Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. {{</lead>}}
+
+
 
 *Eine Reportage von Célestine Pfeuti und Abseera Nanthakumar*
 
@@ -23,4 +25,23 @@ Das Wohnheim Acherli, gelegen im Tscharnergut, gibt es bereits seit 30 Jahren. E
 Image
 
 ## Schauen dich Leute manchmal komisch an?:,, Ja manchmal, aber ich mach mir nichts draus''
+
 Nach einem kurzen Rundgang im Wohnheim Acherli wird Pia im ,,Pikettzimmer’’ interviewt. Olivier erzählt, dass das Zimmer nachts für die Bewohner*innen immer zugänglich ist. ,,Es ist wie ein Nachtdienst, jedoch mit der Möglichkeit zu schlafen’’. Das Interview beginnt. Pia Magdalena Heim ist 45 Jahre alt und Künstlerin. Bevor sie ins Wohnheim Acherli kam, ging sie immer wieder zu ihren Eltern nach Hause. Als sie ins Wohnheim kam kannte sie hier schon jemanden, und zwar Olivier. Ihre beiden Eltern sind bereits verstorben. Die Mutter von Pia ist im Jahr 2022 an einer zweiten Hirnblutung gestorben und ihr Vater starb an Leukämie als sie 12 Jahre alt war. Jedoch habe sie zwei Geschwister und ihre Schwester heirate schon bald, erzählt sie stolz. Vor ein paar Jahren hat sie eine Lehre als Hauswirtschaftsangestellte begonnen. Jedoch konnte sie diese leider nicht fertig machen, da sie Diabetes Typ 1 hat. Bei Menschen mit Down-Syndrom ist die Häufigkeit von Typ-1-Diabetes dreimal so hoch wie bei Menschen ohne Down-Syndrom. Die Diagnose hinderte sie daran, Sachen zu erledigen, da ihre Zuckerwerte teilweise sehr niedrig wurden. Nun konzentriere sie sich auf die Kunst. Pia fügt an, sie habe als Kleinkind schon eine eigene Staffelei gehabt und immer wieder gerne gemalt. Sie erzählt, dass sie keinen bestimmten Malstil habe, sie zeichne einfach aus dem Kopf. Im dritten Stock angekommen zeigt Pia uns ihr Zimmer. An ihrer Zimmertür hängt ein Bild ihrer Familie. Eine wohlige Aura ist zu spüren, sehr viele warme Farben und ein Tuch über Pias Bett lassen einem wie zuhause fühlen. Pia greift unters Bett und zeigt ihre prachtvollen Kunstwerke, die genauso farbenfroh sind wie ihr Zimmer. 
+
+Image
+
+### Was passiert mit den Chromosomen bei Trisomie 21?
+
+Gene enthalten den Bauplan des Menschens, sie bestimmen das Aussehen eines Lebewesens.  Die Gene sind Abschnitte auf der DNA, von denen sich etwa 25.000 auf unserer DNA befinden. Gene zusammen bilden das Genom oder die Gesamtheit aller Chromosomen in einer Zelle. Ein Chromosom besteht aus zwei Chromatiden, was bedeutet, dass ein Chromatid eine aufgewickelte DNA ist. Die DNA wickelt sich um Histone (Proteine), und dieser Wicklungsprozess wiederholt sich, bis ein Chromosom entsteht. In einer menschlichen Körperzelle befinden sich 46 Chromosomen, was 23 Chromosomenpaaren entspricht. Die Hälfte der Chromosomen, also 23, werden von der Mutter und die anderen vom Vater vererbt. Das letzte Chromosomenpaar bestimmt das Geschlecht: Männliche Geschlechtszellen haben ein X-Chromosom und ein Y-Chromosom, während weibliche zwei X-Chromosomen haben.
+
+Erst 1959 entdeckten französische Wissenschaftler, dass Menschen mit Down-Syndrom 47 Chromosomen anstelle der üblichen 46 besitzen und Chromosom 21 dreifach vorhanden ist. Dieser Fehler tritt während der Bildung von Keimzellen auf, wenn eine fehlerhafte Meiose dazu führt, dass Keimzellen das Chromosom 21 zweimal enthalten und somit 24 Chromosomen haben. Bei der Befruchtung einer solchen Keimzelle mit einer normalen entsteht ein Kind mit Trisomie 21, das 47 Chromosomen hat. Es gibt verschiedene Formen der Trisomie 21, die auftreten können. Die freie Trisomie 21 ist die häufigste und tritt bei 95% der Menschen mit Down-Syndrom auf. Daneben gibt es das Mosaik-Trisomie 21, das nur in 1-2% der Fälle vorkommt. Sehr selten ist die partielle Trisomie 21, von der weltweit 100 Fälle bekannt sind. In 3-4% der Fälle liegt eine Translokations-Trisomie 21 vor.
+
+Image
+
+Die Behinderung ist häufig mit Hör- und Sehstörungen verbunden, die den Kinder Kommunikationsschwierigkeiten bereiten. Ausserdem sind Herzerkrankungen und Störungen im Verdauungstrakt nicht ungewöhnlich. In der Regel leiden Kinder unter Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Ebenfalls treten häufig Infektionen in den Atemwegen auf, weil das Immunsystem unterentwickelt ist. Bei Betroffenen tritt häufiger Leukämie, eine Form von Blutkrebs, auf. Zudem sind bestimmte Muskeln im Gesicht nicht vorhanden, häufig leiden sie unter Schlafapnoe, einer wiederholten, kurzen Unterbrechung der Atmung während des Schlafens. Bei Kindern werden oftmals psychiatrische Erkrankungen diagnostiziert. Dazu gehören Hyperaktivität, Zwangsstörungen sowie Angststörungen.
+
+#### ,,90% der Paare treiben ab, wenn sie von der Diagnose erfahren''. Wie wird es herausgefunden und wie reagieren die Eltern auf die Diagnose?
+
+Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
+
+Image
