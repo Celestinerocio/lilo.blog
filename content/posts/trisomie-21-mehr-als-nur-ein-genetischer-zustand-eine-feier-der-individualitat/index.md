@@ -12,7 +12,7 @@ description = ""
 
 Im Aufenthaltsraum des Wohnheims Acherli stehen rote, bequeme Sofas und ein mit Herzen geschmückter Baum für den Valentinstag, es herrscht eine warme Stimmung. Die Frau im Sekretariat teilt mit, dass die Interviewpartnerin gleich kommen solle. Einige Sekunden später treffen Olivier, ein Betreuer im Wohnheim, und Pia, die Interviewpartnerin und zudem Bewohnerin ein. Nach der Begrüssung geht Olivier vor und zeigt den Weg bis zum Aufzug. Im Aufzug sind alle Stöcke mit farbigen Stickern beklebt. Pia drückt auf den 2. Stock mit dem blauen Sticker drauf. ,,Pikettzimmer’’, so ist das Zimmer angeschrieben, bei dem Olivier die Tür offen hält.
 
-![(Abblidung 1): Bild des Warteraums. (Abseera und Célestine)]()
+![(Abblidung 1): Bild des Warteraums. (Abseera und Célestine)](img_6708-3-.jpeg)
 
 # Wohnheim Acherli
 
