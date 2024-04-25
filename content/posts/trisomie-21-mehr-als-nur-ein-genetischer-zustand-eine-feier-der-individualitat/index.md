@@ -4,7 +4,7 @@ date = "2024-03-14"
 draft = true
 pinned = true
 image = ""
-description = "Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. "
+description = ""
 +++
  {{<lead.>}} ## Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. {{</lead>}}
 
