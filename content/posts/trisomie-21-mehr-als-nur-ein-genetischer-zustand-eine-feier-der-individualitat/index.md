@@ -8,9 +8,7 @@ description = "Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mi
 +++
 ![]()
 
- {{<lead>}} ## Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. {{</lead>}}
-
-
+ {{<lead.>}} ## Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. {{</lead>}}
 
 *Eine Reportage von Célestine Pfeuti und Abseera Nanthakumar*
 
@@ -45,3 +43,8 @@ Die Behinderung ist häufig mit Hör- und Sehstörungen verbunden, die den Kinde
 Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
 
 Image
+
+{{<box>}} Dr. med. Aurélie Yekpe
+Aurélie Yekpe ist 60 Jahre alt. Sie arbeitet im Spital Medbase am Bahnhof Bern. Nach langen hin und her hat Sie sich für die Ausbildung als Gynäkologin und Geburtshelferin entschieden. Studiert hat Frau Yekpe in drei Ländern, zuerst in der Elfenbeinküste danach noch in Österreich und in Frankreich. Als Studentin in Wien, Österreich hatte Sie nur 2 Monate Ferien, was dazu führte, dass Sie ihre Familie selten sehen konnte. Frau Yekpe hat auch ein grosses Interesse an Chirurgie für Fehlbildungen, und würde manchmal auch gerne in einer Praxis arbeiten, wo man nur fünf Patient*innen pro Tag hat. Ihr jetziger Job macht Frau Yekpe sehr viel Spass. Sie liebt es, bei Geburten dabei zu sein, da man nie wissen kann, wie das Ganze ablaufen wird. {{</box>}}
+
+Frau Yekpe liest die letzte Nachricht auf ihrem Handy und ist bereit für das Interview. Sie hatte bereits Patientinnen, die ein Kind mit Down-Syndrom erwarteten. Erfahren haben die werdenden Mütter dies, indem man nach dem ersten Screening zwischen der Woche 12 und 14 einen Ultraschall gemacht hat. Dort können die ersten Anzeichen auf eine Fehlbildung gefunden werden. Danach sind auch noch Bluttests machbar zum Schauen,  wie hoch das Risiko einer Trisomie 21 ist. Ab mittlerem Risiko kann noch eine weitere Untersuchung – ein NIPT Test auch Pränatal Test genannt  verlangt werden. Bei dieser Untersuchung werden alle Chromosomenkarten des Kindes abgebildet. Wenn eines der Chromosomen dreifach auftritt, kann man von einem Down-Syndrom ausgehen, erklärt Frau Yekpe. Jedoch gibt es verschiedene Arten von Trisomien: die Trisomie 21, die Trisomie 13 und die Trisomie 18. Sie ist es auch, die dann der Patientin oder dem Paar mitteilen muss, dass das Kind eine Trisomie hat. Frau Yekpe erklärt:,, Wer das Screening macht, muss die Patientin oder das Paar auch über die Diagnose informieren, dies ist meine Philosophie, wer die Untersuchung vornimmt steht dann auch in der Informationspflicht’’. Es wurde auch die schwierig beantwortbare Frage gestellt, wie die Frauen auf die Diagnose reagieren. Frau Yekpe erklärt, dass zukünftige Eltern mit  Kinderwunsch ein gesundes Kind vor Augen hätten und nicht die Diagnose erwarteten. Viele Betroffene können es im ersten Moment gar nicht glauben. Eine Patientin, der Frau Yekpe angerufen hat sei sofort in die Praxis gekommen, da sie es nicht wahrhaben wollte. Ihrer Meinung nach, ist der Prozentsatz der Abtreibungen so hoch, weil sich Paare kein Kind mit einer sogenannten «Beeinträchtigung» wünschen. Vorbereitet würden zukünftige Eltern auf ein Kind mit Trisomie 21 nach Möglichkeit mit psychologischer Unterstützung. Jedoch bestünden im Spital immer Kapazitätsengpässe für eine so wichtige Aufgabe, was sie persönlich bedaure. 
